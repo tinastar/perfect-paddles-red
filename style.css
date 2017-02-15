@@ -208,7 +208,17 @@ footer {
     margin: 15px;
 }
 
+.copyright-info {
+    display: flex;
+    justify-content: flex-start;
+    margin: 30px;
+    text-align: 
+}
 
+.social-media-links {
+    display: flex;
+    margin: 50px;
+}
 
 a {
     text-decoration: none;
