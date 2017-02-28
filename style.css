@@ -272,15 +272,13 @@ th {
         position: relative;
         padding-bottom: 30%;
         margin-bottom: 5%;
-        height: 400px;
-        overflow: hidden;
+       /* height: 400px;
+        overflow: hidden;*/
     }
  .google-maps iframe {
         position: absolute;
         top: 0;
         left: 0;
-        height: 150%;
-        width: 100%;
     }
 
 /*Footer Section*/
